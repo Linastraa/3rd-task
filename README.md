@@ -1,1 +1,1 @@
-# 3rs-task
+# 3rd-task
